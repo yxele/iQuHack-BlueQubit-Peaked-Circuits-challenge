@@ -14,3 +14,8 @@ Problem 8: Bold Peak 🏜
 qubits: 72
 Points: 80
 Reuse decomposition and compilation strategies, but expect fewer obvious simplifications. You may need iterative refinement.
+
+Problem 9: Grand Summit 🏔️
+qubits: 56
+Points: 90
+This challenge blends multiple patterns from earlier problems. Combine visual inspection, partial simulation, decomposition, and compilation tricks to expose the hidden bias toward the peak bitstring.
